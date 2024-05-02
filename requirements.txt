@@ -1,0 +1,24 @@
+Cor do fundo do site
+#F4F2EE
+
+Cor onde estará o input e as opções e o carroel
+#FFFFFF
+
+Cor da borda
+#DFDEDA
+
+
+60px de heigth
+100% de width
+
+
+Branco por cima,
+
+
+Plugin
+
+Colorzilla
+Measure-it 
+Video Speed Controller
+Volume Master Controller
+Metamask
